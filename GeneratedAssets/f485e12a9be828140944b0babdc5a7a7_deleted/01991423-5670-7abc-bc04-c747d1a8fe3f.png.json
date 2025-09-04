@@ -1,0 +1,20 @@
+{
+    "asset": "f485e12a9be828140944b0babdc5a7a7",
+    "fileName": "01991423-5670-7abc-bc04-c747d1a8fe3f.png",
+    "prompt": "Create a stylized texture for a 3D cube that makes it look light and floaty, similar to a balloon but not an actual balloon. The surface should be slightly glossy with soft highlights, smooth and puffy in appearance, giving the impression of being filled with air. The style should be simple, colorful, and cartoony, optimized for a hyper-casual mobile game. Avoid realistic balloon details like seams or rubber texture—keep it playful and stylized.",
+    "negativePrompt": "",
+    "model": "de7dd170-a573-4d45-9da2-89b1ff778408",
+    "modelName": "3D Cartoon Characters",
+    "customSeed": -1,
+    "w3CTraceId": "6d9e598935f954b4c79fad6dcb33857e",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

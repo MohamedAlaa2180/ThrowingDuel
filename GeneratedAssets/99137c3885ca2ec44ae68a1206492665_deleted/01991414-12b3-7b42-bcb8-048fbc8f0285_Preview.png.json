@@ -1,0 +1,11 @@
+{
+    "asset": "99137c3885ca2ec44ae68a1206492665",
+    "fileName": "01991414-12b3-7b42-bcb8-048fbc8f0285_Preview.png",
+    "prompt": "i need a cube stylized material, the texture is wood box ",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 600244664,
+    "w3CTraceId": "6a20b8dece7e41f4b53f9aa8c64a58a3",
+    "refinementMode": "Generation"
+}

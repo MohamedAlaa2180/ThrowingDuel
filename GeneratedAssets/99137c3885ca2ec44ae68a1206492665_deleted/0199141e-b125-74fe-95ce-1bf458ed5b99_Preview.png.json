@@ -1,0 +1,11 @@
+{
+    "asset": "99137c3885ca2ec44ae68a1206492665",
+    "fileName": "0199141e-b125-74fe-95ce-1bf458ed5b99_Preview.png",
+    "prompt": "i need an air filled material\n",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1202197239,
+    "w3CTraceId": "ac38f44b3df47a338ef050dee337164f",
+    "refinementMode": "Generation"
+}

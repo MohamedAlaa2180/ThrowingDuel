@@ -1,0 +1,11 @@
+{
+    "asset": "99137c3885ca2ec44ae68a1206492665",
+    "fileName": "01991411-a5f7-75d8-81fa-adf39db64719_Preview.png",
+    "prompt": "i need a cube material, this cube along with other cubes will construct a squared island in the see, i need it stylized, the color should be something related to sea and summer like orange or baby blue\n",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 507364900,
+    "w3CTraceId": "a523f0aa0d9b57581dcb66d7e10ea167",
+    "refinementMode": "Generation"
+}

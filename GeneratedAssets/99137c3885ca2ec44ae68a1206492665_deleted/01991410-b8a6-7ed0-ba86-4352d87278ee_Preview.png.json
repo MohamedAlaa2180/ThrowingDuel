@@ -1,0 +1,11 @@
+{
+    "asset": "99137c3885ca2ec44ae68a1206492665",
+    "fileName": "01991410-b8a6-7ed0-ba86-4352d87278ee_Preview.png",
+    "prompt": "i need a cube material, this cube along with other cubes will construct a squared island in the see",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 610575168,
+    "w3CTraceId": "20fe6646f5669cd998c8e5a1c68f412d",
+    "refinementMode": "Generation"
+}

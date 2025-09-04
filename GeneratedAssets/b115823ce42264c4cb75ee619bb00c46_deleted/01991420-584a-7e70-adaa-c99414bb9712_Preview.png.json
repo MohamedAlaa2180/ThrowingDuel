@@ -1,0 +1,11 @@
+{
+    "asset": "b115823ce42264c4cb75ee619bb00c46",
+    "fileName": "01991420-584a-7e70-adaa-c99414bb9712_Preview.png",
+    "prompt": "Create a stylized material for a 3D cube that makes it look light and floaty, similar to a balloon but not an actual balloon. The surface should be slightly glossy with soft highlights, smooth and puffy in appearance, giving the impression of being filled with air. The style should be simple, colorful, and cartoony, optimized for a hyper-casual mobile game. Avoid realistic balloon details like seams or rubber texture—keep it playful and stylized.",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 65099914,
+    "w3CTraceId": "4534a5621ff1930cadd7b69a867c1162",
+    "refinementMode": "Generation"
+}

@@ -1,0 +1,11 @@
+{
+    "asset": "99137c3885ca2ec44ae68a1206492665",
+    "fileName": "01991417-36ea-77ce-810c-714522df1ab3_Preview.png",
+    "prompt": "i need air cube material that looks like a ballon",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "modelName": "Unity Texture2D",
+    "customSeed": 250703731,
+    "w3CTraceId": "5eea0ae53b87998db23b3a0a3a978a3f",
+    "refinementMode": "Generation"
+}
