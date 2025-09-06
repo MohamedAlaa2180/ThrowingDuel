@@ -31,7 +31,7 @@ public abstract class ThrowableObject : MonoBehaviour
         {
             return;
         }
-        _rigidbody.isKinematic = false;       
+        _rigidbody.isKinematic = false;
 
         // Build an upward-tilted launch direction for a throwing arc
         Vector3 planarDirection = Vector3.ProjectOnPlane(direction, Vector3.up);
@@ -64,19 +64,11 @@ public abstract class ThrowableObject : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        TryHandleHit(collision.collider);
-    }
+        var collider = collision.collider;
 
-    private void OnTriggerEnter(Collider other)
-    {
-        TryHandleHit(other);
-    }
-
-    private void TryHandleHit(Collider other)
-    {
-        if (other != null && other.TryGetComponent<IDestroyable>(out var destroyable))
+        if (collider != null && collider.TryGetComponent<IDestroyable>(out var destroyable))
         {
-            Destroy(other.gameObject);
+            destroyable.Destroy();
             Reset();
         }
     }
